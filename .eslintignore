@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/build
+
+commitlint.config.js
+config-overrides.js

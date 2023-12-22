@@ -1,0 +1,38 @@
+.Button_main__uCMI5 {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 3em;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 1;
+}
+
+.Button_withPrimary__dyjAF {
+  color: white;
+  background-color: #1ea7fd;
+}
+
+.Button_withSecondary__NIgGJ {
+  color: #333;
+  background-color: transparent;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+
+.Button_withSizeSmall__XMNFh {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+
+.Button_withSizeMedium__MlVcQ {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+
+.Button_withSizeLarge__26hOv {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+
+/*# sourceMappingURL=components-Button-Button-stories.ebd1b984.chunk.css.map*/

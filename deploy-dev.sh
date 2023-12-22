@@ -4,7 +4,7 @@
 # modify these config for the target project
 ClientResourcePrefix=http://poppy-web.lingyuan-tech.com
 ClientAPIPrefix=http://poppy-api.lingyuan-tech.com/
-ServerAddress=huser@47.101.61.200
+ServerAddress=huser@xxxxxxxx
 DeployDirectoryPath=/opt/apps/poppy-web
 # ---------------------------------------------------------------------------
 
